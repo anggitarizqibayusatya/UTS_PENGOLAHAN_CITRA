@@ -1,1 +1,5 @@
 # UTS_PENGOLAHAN_CITRA
+
+NAMA : Anggita rizqi bayusatya
+NIM : 312210447
+KELAS : TI.22.C.8
